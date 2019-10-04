@@ -10,4 +10,4 @@ Please cite the following paper and our MoNuSeg (https://monuseg.grand-challenge
 
 N. Kumar, R. Verma, S. Sharma, S. Bhargava, A. Vahadane and A. Sethi, "A Dataset and a Technique for Generalized Nuclear Segmentation for Computational Pathology," in IEEE Transactions on Medical Imaging, vol. 36, no. 7, pp. 1550-1560, July 2017
 
-Feel free to use weights of my trained model from [here](https://drive.google.com/open?id=16oPaebQnZCMzEsEGvhSVPMvEhbKJPATQ) and segmentation of nuclei from WSI could be done using [my testing code](https://github.com/ruchikaverma-iitg/Nuclei-Segmentation/blob/master/ru_nuc_seg.ipynb)
+Feel free to use weights of my trained model from [here](https://drive.google.com/open?id=16oPaebQnZCMzEsEGvhSVPMvEhbKJPATQ) and segmentation of nuclei from WSI could be done using [the testing code](https://github.com/ruchikaverma-iitg/Nuclei-Segmentation/blob/master/Nuclei_Segmentation_testing_code.ipynb)
