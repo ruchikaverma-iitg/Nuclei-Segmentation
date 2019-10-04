@@ -1,10 +1,10 @@
 # Nuclei-Segmentation
 This repository contains an implementation of Mask-RCNN algorithm using [Matterport library](https://github.com/matterport/Mask_RCNN)
-for nuclei segmentation from whole slide images of tissue sections using data from our [MoNuSeg Challenge](https://monuseg.grand-challenge.org/). 
+for nuclei segmentation from whole slide images of tissue sections 
 
 Description: Nuclei segmentation using Mask-RCNN and based on Feature Pyramid Network (FPN) and a ResNet 50 backbone.
 
-This model was trained using data from our TMI paper and MoNuSeg challenge
+This model was trained using data from our TMI paper and [MoNuSeg challenge] (https://monuseg.grand-challenge.org/).
 
 Please cite the following paper and our MoNuSeg (https://monuseg.grand-challenge.org/) challenge if you use this code-
 
