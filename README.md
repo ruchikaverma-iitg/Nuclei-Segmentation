@@ -6,7 +6,7 @@ Description: Nuclei segmentation using Mask R-CNN based on the ResNet 50 backbon
 
 This model was trained using data from our IEEE TMI paper and [MoNuSeg challenge](https://monuseg.grand-challenge.org/).
 
-Please cite the following papers and our [MoNuSeg challenge](https://monuseg.grand-challenge.org/) if you use this code-
+Please cite the following papers if you use this code or data for your work-
 
 [N. Kumar, R. Verma et al., "A Multi-organ Nucleus Segmentation Challenge," in IEEE Transactions on Medical Imaging 2019 (in press)](https://ieeexplore.ieee.org/document/8880654)
 
