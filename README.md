@@ -6,8 +6,10 @@ Description: Nuclei segmentation using Mask R-CNN based on the ResNet 50 backbon
 
 This model was trained using data from our IEEE TMI paper and [MoNuSeg challenge](https://monuseg.grand-challenge.org/).
 
-Please cite the following paper and our [MoNuSeg challenge](https://monuseg.grand-challenge.org/) if you use this code-
+Please cite the following papers and our [MoNuSeg challenge](https://monuseg.grand-challenge.org/) if you use this code-
 
-N. Kumar, R. Verma, S. Sharma, S. Bhargava, A. Vahadane and A. Sethi, "A Dataset and a Technique for Generalized Nuclear Segmentation for Computational Pathology," in IEEE Transactions on Medical Imaging, vol. 36, no. 7, pp. 1550-1560, July 2017
+[N. Kumar, R. Verma et al., "A Multi-organ Nucleus Segmentation Challenge," in IEEE Transactions on Medical Imaging (in press)](https://ieeexplore.ieee.org/document/8880654)
+
+[Kumar, N., Verma, R., Sharma, S., Bhargava, S., Vahadane, A., & Sethi, A. (2017). A dataset and a technique for generalized nuclear segmentation for computational pathology. IEEE transactions on medical imaging, 36(7), 1550-1560](https://ieeexplore.ieee.org/document/7872382)
 
 Feel free to use weights of my trained model from [here](https://drive.google.com/open?id=16oPaebQnZCMzEsEGvhSVPMvEhbKJPATQ) and segmentation of nuclei from WSI could be done using [the testing code](https://github.com/ruchikaverma-iitg/Nuclei-Segmentation/blob/master/Nuclei_Segmentation_testing_code.ipynb)
