@@ -12,7 +12,7 @@ Please cite the following papers if you use this code or data for your work-
 
 [Kumar, N., Verma, R., Sharma, S., Bhargava, S., Vahadane, A., & Sethi, A. (2017). A dataset and a technique for generalized nuclear segmentation for computational pathology. IEEE transactions on medical imaging, 36(7), 1550-1560](https://ieeexplore.ieee.org/document/7872382)
 
-Feel free to use the testing script with available model weights to check the performance of trained model from using the following links-
+Feel free to use the testing script with available model weights to check the performance of trained model using the following links-
 
 
 [Testing code](https://github.com/ruchikaverma-iitg/Nuclei-Segmentation/blob/master/Nuclei_Segmentation_testing_code.ipynb)
