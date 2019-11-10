@@ -8,7 +8,7 @@ This model was trained using data from our IEEE TMI paper and [MoNuSeg challenge
 
 Please cite the following papers and our [MoNuSeg challenge](https://monuseg.grand-challenge.org/) if you use this code-
 
-[N. Kumar, R. Verma et al., "A Multi-organ Nucleus Segmentation Challenge," in IEEE Transactions on Medical Imaging (in press)](https://ieeexplore.ieee.org/document/8880654)
+[N. Kumar, R. Verma et al., "A Multi-organ Nucleus Segmentation Challenge," in IEEE Transactions on Medical Imaging 2019 (in press)](https://ieeexplore.ieee.org/document/8880654)
 
 [Kumar, N., Verma, R., Sharma, S., Bhargava, S., Vahadane, A., & Sethi, A. (2017). A dataset and a technique for generalized nuclear segmentation for computational pathology. IEEE transactions on medical imaging, 36(7), 1550-1560](https://ieeexplore.ieee.org/document/7872382)
 
